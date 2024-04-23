@@ -4,7 +4,7 @@ This is a simple web application built with React that allows users to search fo
 
 ## Features
 
-- Search for GitHub accounts by username or email.
+- Search for GitHub accounts by username.
 - Display search results with profile pictures and account links.
 - Click on account links to view the GitHub profile in a new tab.
 
